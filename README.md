@@ -1,6 +1,4 @@
-Berikut adalah **kode lengkap untuk `README.md`** yang bisa langsung kamu salin dan letakkan di root proyek Laravel backend (`ptstp-backend/`):
 
----
 
 ````md
 # PTSTP Backend (Laravel)
